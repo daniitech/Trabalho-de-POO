@@ -1,16 +1,5 @@
 # Diagrama de Classes UML
 
-Sistema de Gestão Financeira Pessoal e Orçamento Doméstico.
-Os diagramas usam sintaxe [Mermaid](https://mermaid.js.org/) e renderizam
-diretamente no GitHub, GitLab, VS Code (extensão *Markdown Preview Mermaid*)
-ou em <https://mermaid.live>.
-
-**Notação de visibilidade:** `+` público · `-` privado (atributo `__x` do Python,
-com *name mangling*) · `#` protegido (`_x`). Métodos abstratos terminam com `*`;
-membros estáticos/de classe com `$`.
-
----
-
 ## 1. Diagrama principal (domínio, serviços e interface)
 
 ```mermaid
